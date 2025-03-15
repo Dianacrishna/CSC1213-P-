@@ -162,20 +162,31 @@ Problem Specification:-printing string value
 
 Implementation:-
 
-class StuDetails {
-	public static void main(String [] args){
+class StuDetails 
+{
+
+	public static void main(String [] args)
+{
 		System.out.println("Name: Suthagaran Dianacrishna");
+
 		System.out.println("Registration Number:2022/ASP/50");
+
 		System.out.println("Degree Program: Bsc.ComputerScience");
+
 		System.out.println();
 		
 	  String Name="Suthagaran Dianacrishna";
+
 		String RegNo="2022/ASP/50";
+
 		String Degree="Bsc.ComputerScience";
 		
 	  System.out.println("Full Name: "+Name);
+
 		System.out.println("Registration Number: "+RegNo);
+
 		System.out.println("Degree Program: "+Degree);
+
 	}
 }
 Output:-
@@ -204,9 +215,12 @@ Problem Specification:-How to use "\n" escape sequence
 
 Implementation:-
 
-class StudentDetails{
-	public static void main (String[] args){
+class StudentDetails
+{
+ public static void main (String[] args)
+{
 		System.out.println("First Name: Suthagaran \nLast Name: Dianacrshna \nAddress : Amarasingam Road Arayampathy:-03");
+
 	}
 }
 Output:-
@@ -229,22 +243,31 @@ Problem Specification:-How to use type casting
 
 Implementation:-
 
-class Exercise{
-	public static void main (String [] args){
+class Exercise
+{
+
+	public static void main (String [] args)
+{
 		char c1='g';
+
 		System.out.println("The Character is: "+c1);
 
     int int1=(int)c1;
+
     System.out.println("The Character is: "+int1);
 
     double d1=10.09;
+
 		System.out.println("The Value is: "+d1);
 		
     int int2=(int)d1;	
+
     System.out.println("The Value is: "+int2);
 
     double d2=int1;
+
 		System.out.println("The Value is: "+d2);
+
 	}
 }
 
@@ -274,16 +297,24 @@ Implementation:-
 
 class ArrathmeticOperators
 {
+
 	public static void main(String args[])
 	{
+
 	int a=5;
+
 	double b=-6.3;
 	
 	System.out.println(a+b);
+
 	System.out.println(a-b);
+
 	System.out.println(a*b);
+
 	System.out.println(a/b);
+
 	System.out.println(a%b);
+
 	}
 }	
 
