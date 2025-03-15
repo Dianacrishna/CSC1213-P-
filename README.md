@@ -99,9 +99,12 @@ Problem Specification:-Printing Different datatype values
 
 Implementation:-
 
-class Ex3{
-	public static void main(String[] args){
-		boolean isbool =true;
+class Ex3
+{
+	public static void main(String[] args)
+{
+
+		  boolean isbool =true;
 		System.out.println("Boolean :"+isbool);
 		
     byte ByteVal=120;
