@@ -1,8 +1,12 @@
 01.
 Date:-2022.03.12
+
 Pactical No:-01 
+
 Problem Specification:-My First Java Program
+
 Implementation:-
+
 class MyFirstJavaProgram
 {
    public static void main(String args[])
@@ -11,8 +15,11 @@ class MyFirstJavaProgram
 	  System.out.println("Hello Java Developers !!!");
    }	  
 }
+
 Output:-
+
 Hy First Program in Java
+
 Hello Java Developers !!!
 
 Conclusion:-I have learned the syntax of main method and printstatement
