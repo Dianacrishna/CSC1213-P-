@@ -254,6 +254,7 @@ class Exercise
 
 	public static void main (String [] args)
 {
+
 		char c1='g';
 
 		System.out.println("The Character is: "+c1);
