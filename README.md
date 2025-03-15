@@ -167,9 +167,9 @@ Implementation:-
 
 class StuDetails 
 {
-
-	public static void main(String [] args)
+  public static void main(String [] args)
 {
+
 		System.out.println("Name: Suthagaran Dianacrishna");
 
 		System.out.println("Registration Number:2022/ASP/50");
