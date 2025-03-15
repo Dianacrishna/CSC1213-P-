@@ -1,6 +1,5 @@
 01.
 Date:-2022.03.12
-
 Pactical No:-01 
 Problem Specification:-My First Java Program
 Implementation:-
